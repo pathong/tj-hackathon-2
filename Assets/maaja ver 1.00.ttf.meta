@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: abfed81f90c29d043850c324e43ffc65
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: maaja
+  fontNames:
+  - maaja
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8f485afe93d28774f93bed11acf8ba7e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

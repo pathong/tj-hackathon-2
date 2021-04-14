@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 5273ca88b71d12c41861d1c5372d1ca0
+  - enabled: 1
+    path: Assets/Scenes/menu 1.unity
+    guid: f232a177236236b4cb8a3ac1bc0dff3d
+  - enabled: 1
+    path: Assets/Scenes/prologue.unity
+    guid: 94595ee091610904883e73cabf26ab1a
+  - enabled: 1
+    path: Assets/Scenes/hospital1.unity
+    guid: ee642fb941163df4192d3d39181fcbda
+  - enabled: 1
+    path: Assets/Scenes/game1.unity
+    guid: 57e7eadc25b284849a27ebab38736f00
+  - enabled: 1
+    path: Assets/Scenes/hospital2.unity
+    guid: 3529f21e2a55fce46966342e5f513c74
+  - enabled: 1
+    path: Assets/Scenes/game2.unity
+    guid: 1d03e49612724db45b8b8e493df7f4a4
+  - enabled: 1
+    path: Assets/Scenes/arrived.unity
+    guid: fb4a9c32b2e828f4390202fcce59db31
+  - enabled: 1
+    path: Assets/Scenes/heal_cutscene.unity
+    guid: 34722ccf6c7d26146ac0e78ef6c1c0a8
+  - enabled: 1
+    path: Assets/Scenes/predevelop.unity
+    guid: bf12ec7c0d0deb24892c1dc6efc401e9
+  - enabled: 1
+    path: Assets/Scenes/game3.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/endcredit.unity
+    guid: 718c43ac6df463246b9da6457190800b
+  m_configObjects: {}
